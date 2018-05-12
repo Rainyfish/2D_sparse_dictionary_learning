@@ -1,0 +1,400 @@
+时间已过 21.837669 秒。
+class num is 1  ,iter = 1, loss = 22944.349059 
+时间已过 0.013736 秒。
+class num is 1  ,iter = 1, loss = 20044.189442 
+时间已过 21.740625 秒。
+class num is 1  ,iter = 2, loss = 12831.345376 
+时间已过 0.013682 秒。
+class num is 1  ,iter = 2, loss = 12170.782892 
+时间已过 22.140044 秒。
+class num is 1  ,iter = 3, loss = 11055.394050 
+时间已过 0.012491 秒。
+class num is 1  ,iter = 3, loss = 10791.517802 
+时间已过 21.774971 秒。
+class num is 1  ,iter = 4, loss = 10359.526720 
+时间已过 0.012616 秒。
+class num is 1  ,iter = 4, loss = 10208.906093 
+时间已过 21.751534 秒。
+class num is 1  ,iter = 5, loss = 9924.860896 
+时间已过 0.012771 秒。
+class num is 1  ,iter = 5, loss = 9821.228939 
+时间已过 21.874977 秒。
+class num is 1  ,iter = 6, loss = 9619.825249 
+时间已过 0.011735 秒。
+class num is 1  ,iter = 6, loss = 9547.468342 
+时间已过 22.055015 秒。
+class num is 1  ,iter = 7, loss = 9390.339453 
+时间已过 0.012456 秒。
+class num is 1  ,iter = 7, loss = 9334.010849 
+时间已过 22.239988 秒。
+class num is 1  ,iter = 8, loss = 9208.224134 
+时间已过 0.012454 秒。
+class num is 1  ,iter = 8, loss = 9160.720691 
+时间已过 22.237102 秒。
+class num is 1  ,iter = 9, loss = 9050.498677 
+时间已过 0.013002 秒。
+class num is 1  ,iter = 9, loss = 9008.383684 
+时间已过 22.944159 秒。
+class num is 1  ,iter = 10, loss = 8902.703139 
+时间已过 0.013589 秒。
+class num is 1  ,iter = 10, loss = 8865.556165 
+时间已过 22.218002 秒。
+class num is 2  ,iter = 1, loss = 26373.741822 
+时间已过 0.012729 秒。
+class num is 2  ,iter = 1, loss = 24100.588634 
+时间已过 22.067536 秒。
+class num is 2  ,iter = 2, loss = 19176.430252 
+时间已过 0.013179 秒。
+class num is 2  ,iter = 2, loss = 18115.729709 
+时间已过 21.956787 秒。
+class num is 2  ,iter = 3, loss = 16459.246386 
+时间已过 0.012594 秒。
+class num is 2  ,iter = 3, loss = 15971.019089 
+时间已过 22.035720 秒。
+class num is 2  ,iter = 4, loss = 15120.101123 
+时间已过 0.012592 秒。
+class num is 2  ,iter = 4, loss = 14927.856339 
+时间已过 22.244254 秒。
+class num is 2  ,iter = 5, loss = 14474.940570 
+时间已过 0.013493 秒。
+class num is 2  ,iter = 5, loss = 14331.183974 
+时间已过 22.591000 秒。
+class num is 2  ,iter = 6, loss = 14018.379248 
+时间已过 0.012526 秒。
+class num is 2  ,iter = 6, loss = 13892.367371 
+时间已过 22.274807 秒。
+class num is 2  ,iter = 7, loss = 13646.981331 
+时间已过 0.013168 秒。
+class num is 2  ,iter = 7, loss = 13543.168373 
+时间已过 22.427430 秒。
+class num is 2  ,iter = 8, loss = 13317.790535 
+时间已过 0.013531 秒。
+class num is 2  ,iter = 8, loss = 13227.148306 
+时间已过 22.327873 秒。
+class num is 2  ,iter = 9, loss = 13031.487550 
+时间已过 0.012545 秒。
+class num is 2  ,iter = 9, loss = 12953.554456 
+时间已过 22.293971 秒。
+class num is 2  ,iter = 10, loss = 12767.369150 
+时间已过 0.013841 秒。
+class num is 2  ,iter = 10, loss = 12694.321307 
+时间已过 22.333321 秒。
+class num is 3  ,iter = 1, loss = 18767.681356 
+时间已过 0.012357 秒。
+class num is 3  ,iter = 1, loss = 16900.019178 
+时间已过 22.528907 秒。
+class num is 3  ,iter = 2, loss = 13068.844702 
+时间已过 0.013628 秒。
+class num is 3  ,iter = 2, loss = 12427.166346 
+时间已过 22.246450 秒。
+class num is 3  ,iter = 3, loss = 11170.212727 
+时间已过 0.012739 秒。
+class num is 3  ,iter = 3, loss = 10910.552743 
+时间已过 22.658176 秒。
+class num is 3  ,iter = 4, loss = 10465.977793 
+时间已过 0.013411 秒。
+class num is 3  ,iter = 4, loss = 10362.952553 
+时间已过 22.493881 秒。
+class num is 3  ,iter = 5, loss = 10138.117025 
+时间已过 0.013352 秒。
+class num is 3  ,iter = 5, loss = 10059.142439 
+时间已过 22.507534 秒。
+class num is 3  ,iter = 6, loss = 9894.817385 
+时间已过 0.015060 秒。
+class num is 3  ,iter = 6, loss = 9817.539231 
+时间已过 22.364224 秒。
+class num is 3  ,iter = 7, loss = 9678.171238 
+时间已过 0.012108 秒。
+class num is 3  ,iter = 7, loss = 9611.503897 
+时间已过 22.848861 秒。
+class num is 3  ,iter = 8, loss = 9486.115508 
+时间已过 0.014001 秒。
+class num is 3  ,iter = 8, loss = 9434.341771 
+时间已过 22.597162 秒。
+class num is 3  ,iter = 9, loss = 9308.917629 
+时间已过 0.014682 秒。
+class num is 3  ,iter = 9, loss = 9262.162033 
+时间已过 22.408471 秒。
+class num is 3  ,iter = 10, loss = 9131.204164 
+时间已过 0.012498 秒。
+class num is 3  ,iter = 10, loss = 9082.690055 
+时间已过 22.257244 秒。
+class num is 4  ,iter = 1, loss = 22043.696363 
+时间已过 0.013458 秒。
+class num is 4  ,iter = 1, loss = 20194.508676 
+时间已过 22.337469 秒。
+class num is 4  ,iter = 2, loss = 15290.138851 
+时间已过 0.014973 秒。
+class num is 4  ,iter = 2, loss = 14350.486784 
+时间已过 22.226665 秒。
+class num is 4  ,iter = 3, loss = 12819.357151 
+时间已过 0.012161 秒。
+class num is 4  ,iter = 3, loss = 12499.893810 
+时间已过 22.379137 秒。
+class num is 4  ,iter = 4, loss = 11948.620605 
+时间已过 0.013819 秒。
+class num is 4  ,iter = 4, loss = 11799.788096 
+时间已过 22.469922 秒。
+class num is 4  ,iter = 5, loss = 11486.488266 
+时间已过 0.013783 秒。
+class num is 4  ,iter = 5, loss = 11394.405178 
+时间已过 22.389052 秒。
+class num is 4  ,iter = 6, loss = 11180.000919 
+时间已过 0.013886 秒。
+class num is 4  ,iter = 6, loss = 11108.720088 
+时间已过 22.227180 秒。
+class num is 4  ,iter = 7, loss = 10947.127753 
+时间已过 0.013186 秒。
+class num is 4  ,iter = 7, loss = 10882.994526 
+时间已过 22.341072 秒。
+class num is 4  ,iter = 8, loss = 10748.884159 
+时间已过 0.012499 秒。
+class num is 4  ,iter = 8, loss = 10689.661456 
+时间已过 22.323916 秒。
+class num is 4  ,iter = 9, loss = 10560.824222 
+时间已过 0.014212 秒。
+class num is 4  ,iter = 9, loss = 10500.031860 
+时间已过 22.540099 秒。
+class num is 4  ,iter = 10, loss = 10376.414898 
+时间已过 0.014340 秒。
+class num is 4  ,iter = 10, loss = 10328.663344 
+时间已过 22.759605 秒。
+class num is 5  ,iter = 1, loss = 20028.403515 
+时间已过 0.013304 秒。
+class num is 5  ,iter = 1, loss = 18095.767556 
+时间已过 22.646222 秒。
+class num is 5  ,iter = 2, loss = 14032.017553 
+时间已过 0.012806 秒。
+class num is 5  ,iter = 2, loss = 13002.901856 
+时间已过 22.821845 秒。
+class num is 5  ,iter = 3, loss = 11560.176777 
+时间已过 0.012742 秒。
+class num is 5  ,iter = 3, loss = 11256.693655 
+时间已过 22.581793 秒。
+class num is 5  ,iter = 4, loss = 10715.455558 
+时间已过 0.012665 秒。
+class num is 5  ,iter = 4, loss = 10567.773178 
+时间已过 22.616620 秒。
+class num is 5  ,iter = 5, loss = 10283.045927 
+时间已过 0.012228 秒。
+class num is 5  ,iter = 5, loss = 10187.296753 
+时间已过 22.823864 秒。
+class num is 5  ,iter = 6, loss = 10006.009296 
+时间已过 0.012257 秒。
+class num is 5  ,iter = 6, loss = 9943.222808 
+时间已过 22.333675 秒。
+class num is 5  ,iter = 7, loss = 9776.851571 
+时间已过 0.012490 秒。
+class num is 5  ,iter = 7, loss = 9713.635888 
+时间已过 22.277453 秒。
+class num is 5  ,iter = 8, loss = 9567.291329 
+时间已过 0.013837 秒。
+class num is 5  ,iter = 8, loss = 9517.633370 
+时间已过 22.403549 秒。
+class num is 5  ,iter = 9, loss = 9377.899145 
+时间已过 0.013618 秒。
+class num is 5  ,iter = 9, loss = 9328.109970 
+时间已过 22.593483 秒。
+class num is 5  ,iter = 10, loss = 9173.763052 
+时间已过 0.014379 秒。
+class num is 5  ,iter = 10, loss = 9119.393197 
+时间已过 22.429191 秒。
+class num is 6  ,iter = 1, loss = 24729.144685 
+时间已过 0.013306 秒。
+class num is 6  ,iter = 1, loss = 22228.760600 
+时间已过 22.599224 秒。
+class num is 6  ,iter = 2, loss = 15510.009320 
+时间已过 0.013734 秒。
+class num is 6  ,iter = 2, loss = 14485.951051 
+时间已过 22.580336 秒。
+class num is 6  ,iter = 3, loss = 12705.525502 
+时间已过 0.014212 秒。
+class num is 6  ,iter = 3, loss = 12395.415887 
+时间已过 22.644474 秒。
+class num is 6  ,iter = 4, loss = 11697.627998 
+时间已过 0.013902 秒。
+class num is 6  ,iter = 4, loss = 11536.156237 
+时间已过 22.689241 秒。
+class num is 6  ,iter = 5, loss = 11173.138656 
+时间已过 0.012841 秒。
+class num is 6  ,iter = 5, loss = 11066.731437 
+时间已过 22.808930 秒。
+class num is 6  ,iter = 6, loss = 10838.282388 
+时间已过 0.013547 秒。
+class num is 6  ,iter = 6, loss = 10754.295891 
+时间已过 22.845615 秒。
+class num is 6  ,iter = 7, loss = 10596.827173 
+时间已过 0.014030 秒。
+class num is 6  ,iter = 7, loss = 10526.965299 
+时间已过 23.055079 秒。
+class num is 6  ,iter = 8, loss = 10402.392246 
+时间已过 0.012643 秒。
+class num is 6  ,iter = 8, loss = 10346.768843 
+时间已过 22.920559 秒。
+class num is 6  ,iter = 9, loss = 10229.189846 
+时间已过 0.012895 秒。
+class num is 6  ,iter = 9, loss = 10182.675485 
+时间已过 22.820783 秒。
+class num is 6  ,iter = 10, loss = 10074.436305 
+时间已过 0.013723 秒。
+class num is 6  ,iter = 10, loss = 10034.638811 
+时间已过 22.887254 秒。
+class num is 7  ,iter = 1, loss = 22143.437879 
+时间已过 0.013178 秒。
+class num is 7  ,iter = 1, loss = 19775.744941 
+时间已过 22.850797 秒。
+class num is 7  ,iter = 2, loss = 15209.282924 
+时间已过 0.014709 秒。
+class num is 7  ,iter = 2, loss = 14485.093268 
+时间已过 23.259496 秒。
+class num is 7  ,iter = 3, loss = 13380.376431 
+时间已过 0.013167 秒。
+class num is 7  ,iter = 3, loss = 13123.486276 
+时间已过 23.093251 秒。
+class num is 7  ,iter = 4, loss = 12619.352686 
+时间已过 0.014980 秒。
+class num is 7  ,iter = 4, loss = 12481.050495 
+时间已过 22.957471 秒。
+class num is 7  ,iter = 5, loss = 12122.691880 
+时间已过 0.012568 秒。
+class num is 7  ,iter = 5, loss = 12024.703571 
+时间已过 22.798885 秒。
+class num is 7  ,iter = 6, loss = 11776.900959 
+时间已过 0.013592 秒。
+class num is 7  ,iter = 6, loss = 11707.832835 
+时间已过 22.788418 秒。
+class num is 7  ,iter = 7, loss = 11519.302767 
+时间已过 0.012820 秒。
+class num is 7  ,iter = 7, loss = 11457.266156 
+时间已过 22.736869 秒。
+class num is 7  ,iter = 8, loss = 11255.820859 
+时间已过 0.014191 秒。
+class num is 7  ,iter = 8, loss = 11183.002495 
+时间已过 22.928466 秒。
+class num is 7  ,iter = 9, loss = 10991.753257 
+时间已过 0.014630 秒。
+class num is 7  ,iter = 9, loss = 10929.330580 
+时间已过 22.925024 秒。
+class num is 7  ,iter = 10, loss = 10761.331187 
+时间已过 0.014330 秒。
+class num is 7  ,iter = 10, loss = 10716.749760 
+时间已过 22.998751 秒。
+class num is 8  ,iter = 1, loss = 30171.765645 
+时间已过 0.013174 秒。
+class num is 8  ,iter = 1, loss = 24862.948981 
+时间已过 22.970478 秒。
+class num is 8  ,iter = 2, loss = 15309.688277 
+时间已过 0.013715 秒。
+class num is 8  ,iter = 2, loss = 14596.608045 
+时间已过 23.207897 秒。
+class num is 8  ,iter = 3, loss = 13407.953485 
+时间已过 0.013518 秒。
+class num is 8  ,iter = 3, loss = 13138.562170 
+时间已过 23.275714 秒。
+class num is 8  ,iter = 4, loss = 12638.894316 
+时间已过 0.014247 秒。
+class num is 8  ,iter = 4, loss = 12493.456478 
+时间已过 23.398158 秒。
+class num is 8  ,iter = 5, loss = 12219.623078 
+时间已过 0.012907 秒。
+class num is 8  ,iter = 5, loss = 12117.490660 
+时间已过 23.424780 秒。
+class num is 8  ,iter = 6, loss = 11917.948926 
+时间已过 0.013466 秒。
+class num is 8  ,iter = 6, loss = 11828.620294 
+时间已过 23.129306 秒。
+class num is 8  ,iter = 7, loss = 11654.101221 
+时间已过 0.012514 秒。
+class num is 8  ,iter = 7, loss = 11562.232104 
+时间已过 23.144325 秒。
+class num is 8  ,iter = 8, loss = 11404.020363 
+时间已过 0.013966 秒。
+class num is 8  ,iter = 8, loss = 11329.700060 
+时间已过 22.911785 秒。
+class num is 8  ,iter = 9, loss = 11189.768745 
+时间已过 0.012822 秒。
+class num is 8  ,iter = 9, loss = 11131.518393 
+时间已过 22.989626 秒。
+class num is 8  ,iter = 10, loss = 10997.516938 
+时间已过 0.014219 秒。
+class num is 8  ,iter = 10, loss = 10951.744882 
+时间已过 23.013898 秒。
+class num is 9  ,iter = 1, loss = 20464.997206 
+时间已过 0.013055 秒。
+class num is 9  ,iter = 1, loss = 18574.690089 
+时间已过 23.180884 秒。
+class num is 9  ,iter = 2, loss = 14518.625850 
+时间已过 0.013882 秒。
+class num is 9  ,iter = 2, loss = 13727.198363 
+时间已过 23.308034 秒。
+class num is 9  ,iter = 3, loss = 12326.511279 
+时间已过 0.014670 秒。
+class num is 9  ,iter = 3, loss = 12044.543731 
+时间已过 23.508581 秒。
+class num is 9  ,iter = 4, loss = 11448.898259 
+时间已过 0.013396 秒。
+class num is 9  ,iter = 4, loss = 11276.069921 
+时间已过 23.443374 秒。
+class num is 9  ,iter = 5, loss = 10944.466268 
+时间已过 0.018741 秒。
+class num is 9  ,iter = 5, loss = 10816.903395 
+时间已过 23.472672 秒。
+class num is 9  ,iter = 6, loss = 10623.530199 
+时间已过 0.013472 秒。
+class num is 9  ,iter = 6, loss = 10529.041342 
+时间已过 23.277476 秒。
+class num is 9  ,iter = 7, loss = 10373.320202 
+时间已过 0.013169 秒。
+class num is 9  ,iter = 7, loss = 10290.653486 
+时间已过 23.004135 秒。
+class num is 9  ,iter = 8, loss = 10126.359883 
+时间已过 0.013438 秒。
+class num is 9  ,iter = 8, loss = 10054.564636 
+时间已过 23.187974 秒。
+class num is 9  ,iter = 9, loss = 9906.707299 
+时间已过 0.012563 秒。
+class num is 9  ,iter = 9, loss = 9851.740506 
+时间已过 23.212613 秒。
+class num is 9  ,iter = 10, loss = 9726.701628 
+时间已过 0.013136 秒。
+class num is 9  ,iter = 10, loss = 9679.478559 
+时间已过 23.297764 秒。
+class num is 10  ,iter = 1, loss = 28416.603726 
+时间已过 0.012797 秒。
+class num is 10  ,iter = 1, loss = 25216.198888 
+时间已过 23.040712 秒。
+class num is 10  ,iter = 2, loss = 18317.014789 
+时间已过 0.012606 秒。
+class num is 10  ,iter = 2, loss = 17144.110894 
+时间已过 22.917874 秒。
+class num is 10  ,iter = 3, loss = 15693.835484 
+时间已过 0.013049 秒。
+class num is 10  ,iter = 3, loss = 15386.702305 
+时间已过 22.988413 秒。
+class num is 10  ,iter = 4, loss = 14841.550193 
+时间已过 0.014252 秒。
+class num is 10  ,iter = 4, loss = 14663.258486 
+时间已过 23.369580 秒。
+class num is 10  ,iter = 5, loss = 14309.597888 
+时间已过 0.012750 秒。
+class num is 10  ,iter = 5, loss = 14173.813981 
+时间已过 22.796407 秒。
+class num is 10  ,iter = 6, loss = 13887.568614 
+时间已过 0.012896 秒。
+class num is 10  ,iter = 6, loss = 13762.716155 
+时间已过 22.760168 秒。
+class num is 10  ,iter = 7, loss = 13520.853867 
+时间已过 0.013460 秒。
+class num is 10  ,iter = 7, loss = 13416.088346 
+时间已过 22.759738 秒。
+class num is 10  ,iter = 8, loss = 13202.068986 
+时间已过 0.013583 秒。
+class num is 10  ,iter = 8, loss = 13114.378668 
+时间已过 22.801517 秒。
+class num is 10  ,iter = 9, loss = 12919.050596 
+时间已过 0.013609 秒。
+class num is 10  ,iter = 9, loss = 12850.305681 
+时间已过 22.782782 秒。
+class num is 10  ,iter = 10, loss = 12682.001482 
+时间已过 0.012999 秒。
+class num is 10  ,iter = 10, loss = 12628.392974 

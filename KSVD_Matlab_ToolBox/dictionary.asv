@@ -1,0 +1,7 @@
+load('HAAR.mat');
+K=sqrt(size(HAAR,2));
+bb=sqrt(size())
+
+figure;
+I = displayDictionaryElementsAsImage(HAAR, floor(K), floor(size(HAAR,2)/floor(K)),bb,bb);
+title('The dictionary trained on patches from the noisy image');

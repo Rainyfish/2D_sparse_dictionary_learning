@@ -1,0 +1,2 @@
+tol,iter_solve_dict,iter_all,dict_size_1,dict_size_2,dict_size_3,dict_size_4,nclass,gamma,miu,max_iter,rho,mu,max_mu,DEBUG,rank_lambda,lambda,reblock,threshold,acc_ 1,acc_ 2,acc_ 3,acc_ 4,acc_ 5,acc_ 6,acc_ 7,acc_ 8,acc_ 9,acc_10,acc_11,acc_12,acc_13,acc_14,acc_15,acc_16
+1e-06,50,20,28,10,10,28,10,20,0.1,1000,1.1,0.0001,10000000000,0,0.1,0.001,0,1.5,0.615,0.605,0.595,0.565,0.565,0.545,0.51,0.42,0.42,0.375,0.325,0.34,0.325,0.315,0.32,0.3
